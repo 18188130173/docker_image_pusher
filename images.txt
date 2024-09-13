@@ -7,3 +7,5 @@ xhofe/alist:latest
 mysql
 redis
 nacos
+
+mysql:8.0.36
